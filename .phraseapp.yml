@@ -1,7 +1,7 @@
 ---
 phraseapp:
   project_id: "3fbb2f131b941f14181f5cb27c5b264e"
-  file_format: "json"
+  file_format: "simple_json"
   push:
     sources:
       - file: "./translations/admin-ui/<locale_code>_admin.json"
